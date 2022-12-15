@@ -4,8 +4,6 @@
 **Soubory uložte a odešlete do repozitáře**
 Řešení, které nebude přístupné v repozitáři je považováno jako neodevzdané.
 
-Řešení vypracujte do souboru `reseni.php`. 
-
 Jednotlivé úkoly na sebe sice obsahově navazují, ale jejich vypracování není podmíněno. Pokud si s nějakou částí nebudete vědět rady, v klidu ji přeskočte popř. vypracujte alespoň částečně. Každý úkol je hodnocen individuálně dle předem stanovených kritérií.
 
 ## Zadání
@@ -19,6 +17,8 @@ a) Zobrazené sloupce budou název název produktu, cena, popis a název výrobc
 b) Dotaz bude zobrazovat jen výrobky, které mají více než 1000 kliknutí a více než 1000 zobrazení. 
 
 ### 2
+Řešení vypracujte do souboru `reseni.php`. 
+
 Vytvořte html stránku s formulářem. Můžete použít vzory z předchozích cvičení.
 
 Sestavte program pro vyhodnocení nároku na bonus ve výši 6%. Hodnotícím kritériem je alespoň 75% účast zaměstnance na hodnocených směnách. Vezměte si minimálně následující vstupy od uživatele:
