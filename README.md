@@ -4,7 +4,7 @@
 **Soubory uložte a odešlete do repozitáře**
 Řešení, které nebude přístupné v repozitáři je považováno jako neodevzdané.
 
-Jednotlivé úkoly na sebe sice obsahově navazují, ale jejich vypracování není podmíněno. Pokud si s nějakou částí nebudete vědět rady, v klidu ji přeskočte popř. vypracujte alespoň částečně. Každý úkol je hodnocen individuálně dle předem stanovených kritérií.
+Domácí úkol je na známky. Každý úkol a jeho část je hodnocena individuálně dle předem stanovených kritérií.
 
 ## Zadání
 
