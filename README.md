@@ -10,7 +10,7 @@ Domácí úkol je na známky. Každý úkol a jeho část je hodnocena individu�
 
 ### 1
 
-V souboru query.sql sestavte dotaz do databáze. Schéma databáze je v zobrazeno v příloze dbschema.
+V souboru query.sql sestavte dotaz do vzorové databáze employees. Schéma databáze je v zobrazeno v příloze dbschema.
 
 a) Zobrazené sloupce budou jméno, příjmení, oddělení ve kterém zaměstnanec pracuje a jméno nadřízeného 
 b) Upravte dotaz tak, aby zobrazoval jen zaměstnance z oddělení Research a mají aktivní pracovní poměr k 1.1.2023
