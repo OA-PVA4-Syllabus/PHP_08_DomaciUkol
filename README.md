@@ -12,9 +12,9 @@ Domácí úkol je na známky. Každý úkol a jeho část je hodnocena individu�
 
 V souboru query.sql sestavte dotaz do databáze. Schéma databáze je v zobrazeno v příloze dbschema.
 
-a) Zobrazené sloupce budou název název produktu, cena, popis a název výrobce 
+a) Zobrazené sloupce budou jméno, příjmení, oddělení ve kterém zaměstnanec pracuje a jméno nadřízeného 
+b) Upravte dotaz tak, aby zobrazoval jen zaměstnance z oddělení Research a mají aktivní pracovní poměr k 1.1.2023
 
-b) Dotaz bude zobrazovat jen výrobky, které mají více než 1000 kliknutí a více než 1000 zobrazení. 
 
 ### 2
 Řešení vypracujte do souboru `reseni.php`. 
@@ -27,7 +27,7 @@ Sestavte program pro vyhodnocení nároku na bonus ve výši 6%. Hodnotícím kr
 * Počet hodnocených směn
 * Počet účastí na hodnocených směnách
 
-a) Vytiskněte procento navštívených hodnocených směn a informaci, jestli má nárok na bonus nebo ne a vypočtenou výši bonusu.
+a) Zobrazte uživateli procento navštívených hodnocených směn a informaci, jestli má nárok na bonus nebo ne a vypočtenou výši bonusu.
 
 b) Pokud má zaměstnanec více než 95% účast na všech konaných směnách a zároveň nemá žádnou neomluvenou absenci, má taktéž nárok na bonus.
 
